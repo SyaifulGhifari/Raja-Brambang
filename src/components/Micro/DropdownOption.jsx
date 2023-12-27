@@ -9,7 +9,7 @@ export default function DropdownOption({options,action}) {
         <Button
           variant="bordered" 
         >
-          Open Menu
+          Menu
         </Button>
       </DropdownTrigger>
       <DropdownMenu aria-label="Dynamic Actions" items={options}>
