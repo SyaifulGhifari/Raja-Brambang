@@ -42,7 +42,7 @@ export default function Footer() {
         fontSize={screenSize < 769 ? '2em' : '3em'}
         color='blue'
         role='link'
-        onClick={() => openInNewTab('https://www.facebook.com/ardi.gilang.501/')}
+        onClick={() => openInNewTab('https://www.facebook.com/raja.brambang.45?mibextid=2JQ9oc')}
       />
       <FaInstagram
         fontSize={screenSize < 769 ? '2em' : '3em'}
